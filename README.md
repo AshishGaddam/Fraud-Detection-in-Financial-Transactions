@@ -23,7 +23,7 @@ This project delves into the practice of financial fraud detection utilizing dat
 ---
 
 ## 📊 Dataset
-- **Source**: Public Credit Card Fraud Detection Dataset (e.g., Kaggle).
+- **Source**: Public Credit Card Fraud Detection Dataset.
 - **Characteristics**: Highly imbalanced dataset (~0.17% of transactions are fraudulent).
 - **Features**: Anonymized numerical values (V1, V2 … V28), transaction amount, and transaction time.
 
@@ -63,7 +63,7 @@ This project delves into the practice of financial fraud detection utilizing dat
 
 ## 🔮 Future Enhancements
 - Develop a real-time fraud detection pipeline using tools like Kafka or AWS Kinesis.
-- Integrate the system with Business Intelligence dashboards (e.g., Power BI, Tableau).
+- Integrate the system with Business Intelligence dashboards like Power BI, Tableau).
 - Explore synthetic fraud data generation using Generative Adversarial Networks (GANs).
-- Incorporate behavioral biometrics (e.g., typing speed, device usage, location) for enhanced detection.
+- Incorporate behavioral biometrics like typing speed, device usage, location) for enhanced detection.
 
