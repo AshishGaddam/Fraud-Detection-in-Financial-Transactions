@@ -67,10 +67,3 @@ This project delves into the practice of financial fraud detection utilizing dat
 - Explore synthetic fraud data generation using Generative Adversarial Networks (GANs).
 - Incorporate behavioral biometrics (e.g., typing speed, device usage, location) for enhanced detection.
 
----
-
-## ⚡ How to Run
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/<your-username>/Fraud-Detection.git
-   cd Fraud-Detection
